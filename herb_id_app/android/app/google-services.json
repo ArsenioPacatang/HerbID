@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "383461734900",
+    "project_id": "herb-id-app",
+    "storage_bucket": "herb-id-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383461734900:android:e8a52825a6fa1f495821a1",
+        "android_client_info": {
+          "package_name": "com.example.HerdID"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383461734900-257v649h4cc76jqfp88gsc11t9ho3qee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.HerdID",
+            "certificate_hash": "e458ba792d7309b888ddfe9ddf6f9ae361e502d8"
+          }
+        },
+        {
+          "client_id": "383461734900-fobbptiuk0r407msuujd29gigmc8usqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_t8bSUlTAzOAsuE1fqudLAeQO1h1k-DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383461734900-fobbptiuk0r407msuujd29gigmc8usqc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "383461734900-4dl637iq7e3gfsjtmvkobu27tvlu7dg0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.herbIdApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
